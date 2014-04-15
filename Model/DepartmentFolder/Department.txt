@@ -1,0 +1,8 @@
+﻿0, sub, ultrasound
+1, sub, surgery
+2, main, lab
+3, main, emergency
+4, main, internal medicine
+5, main, paediatrics
+6, sub, radiology
+7, sub, maternity

@@ -1,0 +1,6 @@
+0,Nghia, 17/01/1992, m, m,doctor,profession
+1, Nghia2, 17/01/1992, m, m, nurse, profession
+2, Nghia3, 17/01/1992, m, non, guard, bachelor
+3, Nghia4, 17/01/1992, m, non, executive, bachelor
+4, Nghia5, 17/01/1992, m, non, assistant, bachelor
+5, Nghia3, 17/01/1992, m, non, reception, bachelor

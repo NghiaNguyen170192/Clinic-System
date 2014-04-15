@@ -1,0 +1,3 @@
+﻿0,doctor
+1,professional doctor
+2,professional assistant
